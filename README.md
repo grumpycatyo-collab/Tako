@@ -10,11 +10,15 @@ As I said, we can add some tasks:
 
 
 ![image](https://user-images.githubusercontent.com/77546227/213823351-a9c7311e-0846-4f53-a96f-cbdb5373f295.png)
+
+
 Or delete them as we want.
 Also we can modify them:
 
 
 ![image](https://user-images.githubusercontent.com/77546227/213823546-a7150e37-0f76-4193-afed-1c40f614bd80.png)
+
+
 That's all kind of. 
 As a final note: why Taco? Because I hadn't have enough imagination for a better name, and I just took the first two letters from "tasks" and BOOM!, what a genius, a Ta-co...
 Thank you for your attention!
