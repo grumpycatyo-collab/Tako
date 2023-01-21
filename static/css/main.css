@@ -29,7 +29,10 @@ input[type=submit] {
     font-family: 'Inter',sans-serif;
     color:white;
     font-weight: 700;
-    background-color: #191919
+    transition: 0.7s;
+    background-color: #191919;
+    
+    transition-timing-function: ease-in-out;
 
   }
 
@@ -42,8 +45,10 @@ input[type=submit] {
     color:white;
     font-weight: 700;
     background-color: #7857fe;
+    transition-delay: 0.5s;
     transition-timing-function: ease-in-out;
     transition: 0.7s;
+
 
   }
 
